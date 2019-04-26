@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ac76e9ef-3e29-4d3b-88de-1a8f47b980de" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/app/core/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/core/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/core/tests/tests_admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/core/tests/tests_admin.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,11 +45,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/core/tests/tests_admin.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="246">
-              <caret line="31" column="34" lean-forward="true" selection-start-line="31" selection-start-column="34" selection-end-line="31" selection-end-column="34" />
+            <state relative-caret-position="314">
+              <caret line="35" column="50" selection-start-line="35" selection-start-column="50" selection-end-line="35" selection-end-column="50" />
               <folding>
                 <element signature="e#0#38#0" expanded="true" />
               </folding>
@@ -56,11 +57,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/core/admin.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="23" column="11" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
+            <state relative-caret-position="144">
+              <caret line="15" column="65" selection-start-line="15" selection-start-column="65" selection-end-line="15" selection-end-column="65" />
               <folding>
                 <element signature="e#0#32#0" expanded="true" />
               </folding>
@@ -112,8 +113,8 @@
         <option value="$PROJECT_DIR$/app/app/settings.py" />
         <option value="$PROJECT_DIR$/app/core/models.py" />
         <option value="$PROJECT_DIR$/app/core/tests/test_models.py" />
-        <option value="$PROJECT_DIR$/app/core/tests/tests_admin.py" />
         <option value="$PROJECT_DIR$/app/core/admin.py" />
+        <option value="$PROJECT_DIR$/app/core/tests/tests_admin.py" />
       </list>
     </option>
   </component>
@@ -356,22 +357,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/core/tests/tests_admin.py">
+    <entry file="file://$PROJECT_DIR$/app/core/admin.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="31" column="34" lean-forward="true" selection-start-line="31" selection-start-column="34" selection-end-line="31" selection-end-column="34" />
+        <state relative-caret-position="144">
+          <caret line="15" column="65" selection-start-line="15" selection-start-column="65" selection-end-line="15" selection-end-column="65" />
           <folding>
-            <element signature="e#0#38#0" expanded="true" />
+            <element signature="e#0#32#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/core/admin.py">
+    <entry file="file://$PROJECT_DIR$/app/core/tests/tests_admin.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="23" column="11" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
+        <state relative-caret-position="314">
+          <caret line="35" column="50" selection-start-line="35" selection-start-column="50" selection-end-line="35" selection-end-column="50" />
           <folding>
-            <element signature="e#0#32#0" expanded="true" />
+            <element signature="e#0#38#0" expanded="true" />
           </folding>
         </state>
       </provider>
