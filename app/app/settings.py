@@ -25,7 +25,7 @@ SECRET_KEY = 'y814)s3v(+nc3z=^k#-1xt_c@z1+lg(%$8)jh5*--f40&t(kd2'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['zookal.local']
+ALLOWED_HOSTS = ['zookal.local','192.168.56.101']
 
 
 # Application definition
